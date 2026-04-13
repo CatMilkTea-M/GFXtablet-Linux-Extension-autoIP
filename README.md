@@ -1,3 +1,9 @@
+<img width="257" height="244" alt="Screenshot_2026-04-13_10-43-10" src="https://github.com/user-attachments/assets/b0a4705d-cb47-4a1d-b5b3-8dd1304b5a4f" />
+
+<img width="257" height="244" alt="Screenshot_2026-04-13_10-45-59 (1)" src="https://github.com/user-attachments/assets/965d1e93-9797-4444-8903-c01bfd415d78" />
+
+   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***   ***
+
 Bash script to automate the **GfxTablet** server connection.
 Features:
 - Auto-detect Local IP.
