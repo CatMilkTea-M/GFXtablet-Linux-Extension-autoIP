@@ -18,7 +18,7 @@ Place the files in the same folder.
 
 <img width="473" height="414" alt="image" src="https://github.com/user-attachments/assets/2190d546-ede1-4512-b0c3-b4c736787c67" />
 
-You can now run the file and it will work.
+You can now run the file and it will work. (Make sure you grant the necessary permissions.)
 
 For beginners:
 How to make it a launcher (send to desktop in Linux)
